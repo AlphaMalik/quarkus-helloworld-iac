@@ -4,4 +4,4 @@ app:
   tag: v1.1
   serviceType: ClusterIP
   environmentVars:
-    todaysWeather: Thunderstorms
+    todaysWeather: Cloudy with a chance of rain
