@@ -1,7 +1,7 @@
 ---
 app:
   repo: quay.io/anismalikibm/quarkus-helloworld
-  tag: v1
+  tag: v1.1
   serviceType: ClusterIP
   environmentVars:
     todaysWeather: partly cloudy
