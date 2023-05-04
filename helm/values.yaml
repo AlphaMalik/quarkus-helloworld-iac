@@ -1,0 +1,7 @@
+---
+app:
+  repo: quay.io/anismalikibm/quarkus-helloworld
+  tag: v1
+  serviceType: ClusterIP
+  env:
+    todaysWeather: cloudy with chance of showers
